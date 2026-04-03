@@ -36,5 +36,7 @@ Your job: **build a screenshot tool** that a coding agent can use to see the ren
 
 - Your harness is the agent's **eyes**. The better it sees, the better it performs.
 - A good harness requires zero human guidance beyond the initial prompt.
-- This is an AI-native project, I do expect you're using AI to complete these assignments. A goal of this capstone is to push tools to a real production project, do not rely on vibes.
-- This assignment should not take more than an hour, if it does please contact me.
+- This assignment should not take more than an hour, even without AI, if it does please contact me.
+
+### AI Usage
+This is an AI-native project, I do expect you're using AI to complete these assignments. A goal of this capstone is to push tools to a real production project, do not rely on vibes. Balancing understanding vs efficiency is the most important skill to develop when coding with AI, and varies from project to project. For this assignment you should understand every single line of code that you submit.
